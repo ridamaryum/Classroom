@@ -1,0 +1,11 @@
+*{
+    border: border-box;
+}
+.insect{
+    color: blueviolet;
+    border: border-box;
+    background-color: goldenrod;
+}
+.insect:hover{
+  background-color: blue;
+}
